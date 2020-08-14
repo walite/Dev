@@ -1,1 +1,9 @@
+{"version_code":453598,"content":"
+<p>تحديث|Update 1.70</p>
 
+<li>تحديث جديد</li>
+
+<li>New Update</li>
+
+","url":"https://t.co/k3UqXz3eqj"
+}
