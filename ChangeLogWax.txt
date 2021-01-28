@@ -1,5 +1,5 @@
-{"version_code":205218001,"content":"
-<p>تحديث|Update 1.80</p>
+{"version_code":205218035,"content":"
+<p>تحديث|Update 1.90</p>
 
 <li>تحديث جديد</li>
 
