@@ -1,9 +1,9 @@
-{"version_code":210113001,"content":"
+{"version_code":210113002,"content":"
 <p>تحديث|Update 2.10</p>
 
 <li>تحديث جديد</li>
 
 <li>New Update</li>
 
-","url":"https://t.co/J8zD9TViBF?amp=1"
+","url":"https://t.co/VivhxWl4KO?amp=1"
 }
