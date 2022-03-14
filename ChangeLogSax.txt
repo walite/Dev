@@ -1,9 +1,9 @@
-{"version_code":211817002,"content":"
-<p>تحديث|Update 2.30</p>
+{"version_code":220474002,"content":"
+<p>تحديث|Update 2.40</p>
 
 <li>تحديث جديد</li>
 
 <li>New Update</li>
 
-","url":"https://t.co/cG2PTrOcCv"
+","url":"https://t.co/ic8IWFwvfc"
 }
