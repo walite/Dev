@@ -1,9 +1,26 @@
 {"version_code":211817021,"content":"
-<p>تحديث|Update 2.50</p>
+<p> تحديث|Update 2.50</p>
 
-<li>تحديث جديد</li>
 
-<li>New Update</li>
+<li> التحديث لنسخة الماركت 2.22.12.77 المستقرة.</li>
+<li> تفعيل إمكانية التفاعل ب أي رمز تعبيري  في المحادثة</li>
+<li> إضافة امكانية ترجمة الرسائل لعدة لغات.</li>
+<li> إصلاح ميزة تجاوز خاصية العرض لمرة واحدة.</li>
+<li> إصلاح الانهيار عند فتح محادثة.</li>
+<li> إصلاح التعليق ...البرنامج اصبح اكثر سرعة وسلاسة</li>
+<li> إصلاحات اخرى..</li>
+
+
+<li>New Base Updated to 2.22.12.77 Stable Base.</li>
+<li>Added Ability To Send any emoji as reactions.</li>
+<li>In-App Translator to translate messages to 13 different languages.</li>
+<li>Fixed Anti View Once.</li>
+<li>Fixed Crash when opening conversations in some devices.</li>
+<li>Fixed Slow and lag when scrolling.</li>
+<li>Bugs fixes and speed improvements...</li>
+
+ 
+
 
 ","url":"https://t.co/ic8IWFwvfc"
 }
