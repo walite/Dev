@@ -1,4 +1,4 @@
-{"version_code":1,"content":"
+{"version_code":211817032,"content":"
 <p> تحديث|Update V2.90 BETA 2</p>
 
 
@@ -9,5 +9,5 @@
  
 
 
-","url":"https://t.co/kVyuvhBvsq"
+","url":"https://t.co/kJ9O9xmv4u"
 }
