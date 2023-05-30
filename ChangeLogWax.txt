@@ -1,13 +1,12 @@
-{"version_code":211817033,"content":"
-<p> تحديث|Update V2.90 BETA 2</p>
+{"version_code":211817037,"content":"
+<p> تحديث|Update V3.0 BETA </p>
 
 
+<li>أعزائي مستخدمي التطبيق، نودّ أن نشكركم على دعمكم المتواصل لنا </li>
+<li>ونريد أن نطلب منكم المساعدة في دعمنا ماديًا  عن طريق النقر على الإعلانات الموجودة في الموقع</li>
+<li> يساعد ذلك في استمرار تطوير التطبيق، وتحديثه بشكل دوري </li>
+ <li> نحن نقدر دعمكم الكبير ونتطلع إلى تواصلكم معنا ومشاركتنا في تحسين تجربتكم مع التطبيق. شكرا لكم </li>
 
-<li> If you get ban before pls (Backup your chats ,then remove whatsapp ,then install the new update ,then enter your number and verify it via sms, then restore your chat..)</li>
-<li> Improved Anti-ban protection..</li>
-<li> Other fixes. </li>
- 
 
-
-","url":"https://t.co/cG2PTrOcCv"
+","url":"https://t.co/L7dqQuIjzj"
 }
