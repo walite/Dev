@@ -1,24 +1,12 @@
-{"version_code":2118170,"content":"
-<p> تحديث|Update V2.30</p>
+{"version_code":231278018,"content":"
+<p> تحديث|Update </p>
 
 
-<li> التحديث لنسخة الماركت 2.23.8.76</li>
-<li> تفعيل ميزة البحث ضمن الاعدادات.</li>
-<li> تفعيل الواجهة الجديدة لتطبيق واتساب.</li>
-<li>اضافة خيار لتفعيل / تعطيل الواجهة الجديدة</li>
-<li> المزيد من التحسينات ضد الحظر</li>
-<li> إصلاح عرض "التطبيق الخبيث" في أجهزة الشاومي والهواوي..</li>
-<li> اصلاحات اخرى.</li>
+<li> تحديث جديد</li>
+<li> قم بتشغيل VPN اذا واجهت مشكلة في التحديث</li>
+<li> اثناء التحديث قم بالنقر على اي إعلان لدعمنا.</li>
 
+ 
 
-<li>New Base Updated to 2.23.8.76 Stable Base.</li>
-<li>Added option to Enable /Disable New WA UI.</li>
-<li>Enable New WA UI.</li>
-<li>Enable Search Icon in wa settings.</li>
-<li>Improved Anti-ban protection..</li>
-<li>Fixed show "Malicious application" in xiaomi and huawei devices.</li>
-<li>Other fixes.</li>
-
-
-","url":"https://t.co/ic8IWFwvfc"
+","url":"https://t.co/LPu8AZTE5o"
 }
