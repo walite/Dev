@@ -1,4 +1,4 @@
-{"version_code":1,"content":"
+{"version_code":231278018,"content":"
 <p> تحديث|Update </p>
 
 
@@ -8,5 +8,5 @@
 
  
 
-","url":"https://t.co/IhDOWEMNJt"
+","url":"https://www.latfutbols.net/2021/06/WAX.html?m=1"
 }
